@@ -1,21 +1,17 @@
 ### OLá! Eu sou Ivan Campelo
 
-- 🔭 Hoje sou desenvolvedor beck-end
-- 🌱 Estudo C/C++ 
+- 🔭 Desenvolvedor back-end
+- 🌱 Gosta de estudar C e linguagens de baixo em meu tempo livre
 - 📫 Pode me chamar no meu email: ivancampelo1973@gmail.com
-- 😄 Pronome: Ele/Dele
+- 😄 Se eu pudesse programar em apenas uma linguagem durante toda minha vida, qual seria? Bem, claro que a resposta é Python.
+
+
 
 <div align="center">
   <a href="https://github.com/IvanCampelo22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanCampelo22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCampelo22&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img aling="center" alt="Rafa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img aling="center" alt="Rafa-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img aling="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img aling="center" alt="Rafa-python"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img aling="center" alt="Rafa-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+
   
 </div>
   
