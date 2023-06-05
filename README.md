@@ -1,7 +1,7 @@
 ### OLá! Eu sou Ivan Campelo
 
 - 🔭 Desenvolvedor back-end
-- 🌱 Gosto de estudar C e linguagens de baixo em meu tempo livre
+- 🌱 Gosto de estudar C e linguagens de baixo nível em meu tempo livre
 - 📫 Pode me chamar no meu email: ivancampelo1973@gmail.com
 - 😄 Se eu pudesse programar em apenas uma linguagem durante toda minha vida, qual seria? Bem, claro que a resposta é Python.
 
