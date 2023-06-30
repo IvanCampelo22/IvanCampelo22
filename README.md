@@ -1,19 +1,25 @@
-### OLá! Eu sou Ivan Campelo
-
-- 🔭 Desenvolvedor back-end
-- 🌱 Gosto de estudar C e linguagens de baixo nível em meu tempo livre
-- 📫 Pode me chamar no meu email: ivancampelo1973@gmail.com
-- 😄 Se eu pudesse programar em apenas uma linguagem durante toda minha vida, qual seria? Bem, claro que a resposta é Python.
-
-
-
-<div align="center">
-  <a href="https://github.com/IvanCampelo22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanCampelo22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCampelo22&layout=compact&langs_count=7&theme=dracula"/>
-
-  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21lMXh2NWg5eGo2bzI5ejNjd2YwanZwaTlpMWNhb3J1NjJ0YmtlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="700"/>
 </div>
+
+##
+
+### Seja Bem-Vindo :rocket:	
+
+- :smiley:  Meu nome é Ivan Campelo
+- :snake: Desenvolvedor Python Junior
+- :man_student:  Estou cursando Ciência da Computação
+- :notebook_with_decorative_cover:	Tenho formação nos mais diversos cursos de tecnologias, principalmente naqueles direcionados ao Python
+- :pushpin: De Olinda - PE
+- :guitar: Curto o bom e velho rock 'n roll
+- :bouncing_ball_person: Sou um grande fã do basquete, torcendor do Brooklin Nets
+- :coffee:Entusiasta da literatura e cinema, sempre com um bom café ao lado
+- :office:	Atualmente trabalhando na Charisma como desenvolvedor junior
+- :briefcase: Fundador e desenvolvedor da NeOne Technology
+- :computer:	Outras experiências:
+            Desenvolvedor back-end na empresa Viagem10
+            Técnico em automação residencial na empresa ATM Home
+
   
   ##
   
