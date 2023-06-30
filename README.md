@@ -16,8 +16,9 @@
 - :coffee:Entusiasta da literatura e cinema, sempre com um bom café ao lado
 - :office:	Atualmente trabalhando na Charisma como desenvolvedor junior
 - :briefcase: Fundador e desenvolvedor da NeOne Technology
-- :computer:	Outras experiências:
+- :computer:	Outras experiências: <br>
             Desenvolvedor back-end na empresa Viagem10
+  <br>
             Técnico em automação residencial na empresa ATM Home
 
   
