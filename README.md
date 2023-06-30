@@ -23,7 +23,16 @@
 
   
   ##
-  
+  <br>
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCampelo22&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanCampelo22&show_icons=true&theme=dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanCampelo22&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
   <div> 
   <a href="https://www.instagram.com/ivancampelo39/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
