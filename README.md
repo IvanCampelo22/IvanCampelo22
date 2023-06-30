@@ -23,14 +23,18 @@
 
   
   ##
-  <br>
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCampelo22&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanCampelo22&show_icons=true&theme=dark)
-
+##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanCampelo22&theme=dark&background=000000)](https://git.io/streak-stats)
+##
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
+</div>
 
 <br>
   <div> 
