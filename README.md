@@ -7,20 +7,10 @@
 ### Seja Bem-Vindo :rocket:	
 
 - :smiley:  Meu nome é Ivan Campelo
-- :snake: Desenvolvedor Python Junior
+- :snake: Desenvolvedor De Software
 - :man_student:  Estou cursando Ciência da Computação
-- :notebook_with_decorative_cover:	Tenho formação nos mais diversos cursos de tecnologias, principalmente naqueles direcionados ao Python
-- :pushpin: De Olinda - PE
-- :guitar: Curto o bom e velho rock 'n roll
-- :bouncing_ball_person: Sou um grande fã do basquete, torcendor do Brooklin Nets
-- :coffee:Entusiasta da literatura e cinema, sempre com um bom café ao lado
-- :office:	Atualmente trabalhando na Charisma como desenvolvedor junior
-- :briefcase: Fundador e desenvolvedor da NeOne Technology
-- :computer:	Outras experiências: <br>
-            Desenvolvedor back-end na empresa Viagem10
-  <br>
-            Técnico em automação residencial na empresa ATM Home
 
+  <br>
   
   ##
 
