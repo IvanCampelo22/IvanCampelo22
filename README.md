@@ -8,39 +8,36 @@ Atuo no desenvolvimento de APIs de alta performance, plataformas multi-tenant, p
 
 ---
 
-## 🧠 Perfil Profissional
+## Perfil Profissional
 
-- Backend Engineer com foco em **arquitetura de sistemas, automação e produtos escaláveis**
-- Forte experiência com **Python, APIs, RPA, processamento assíncrono e cloud**
-- Atuação em projetos de **alta complexidade e impacto real de negócio**
-- Background em **engenharia de software, dados e inteligência artificial aplicada**
+Backend Engineer com foco em arquitetura de sistemas, automação e produtos escaláveis. Experiência sólida em projetos de alta complexidade, processamento assíncrono, integração de sistemas e engenharia orientada a dados. Atuação constante em ambientes de produção com responsabilidade técnica e impacto direto nos resultados do negócio.
 
 ---
 
-## 🧰 Core Stack
+## Core Stack
 
-**Linguagens:** Python, JavaScript, TypeScript  
-**Frameworks:** FastAPI, Django, DRF, NestJS  
-**Infra & Cloud:** Docker, AWS, CI/CD, Linux  
-**Dados:** PostgreSQL, Redis, ETL, BI  
-**Automação:** Selenium, RPA, Integrações corporativas  
-**Arquitetura:** APIs distribuídas, sistemas multi-tenant, event-driven
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanCampelo22&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCampelo22&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+Linguagens: Python, JavaScript, TypeScript  
+Frameworks: FastAPI, Django, Django REST Framework, NestJS  
+Infraestrutura e Cloud: Docker, AWS, CI/CD, Linux  
+Dados: PostgreSQL, Redis, ETL, Business Intelligence  
+Automação: Selenium, RPA, Integrações corporativas  
+Arquitetura: APIs distribuídas, sistemas multi-tenant, event-driven
 
 ---
 
-## 🛠️ Tecnologias
+## GitHub Activity
+
+Atuação contínua em projetos de backend, automação e arquitetura de sistemas, com foco em:
+- construção de APIs e serviços escaláveis
+- automação de processos corporativos
+- integração de sistemas e dados
+- engenharia orientada a produto
+
+Os repositórios públicos demonstram a evolução técnica, padrões de arquitetura e capacidade de entrega em projetos reais.
+
+---
+
+## Tecnologias
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="42"/>
