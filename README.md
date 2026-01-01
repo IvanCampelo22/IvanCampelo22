@@ -33,8 +33,6 @@ Atuação contínua em projetos de backend, automação e arquitetura de sistema
 - integração de sistemas e dados
 - engenharia orientada a produto
 
-Os repositórios públicos demonstram a evolução técnica, padrões de arquitetura e capacidade de entrega em projetos reais.
-
 ---
 
 ## Tecnologias
