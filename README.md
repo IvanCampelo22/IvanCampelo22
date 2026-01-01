@@ -1,5 +1,5 @@
 <h1 align="center">Ivan Campelo</h1>
-<h3 align="center">Backend Engineer • Python • FastAPI • Distributed Systems • Automation</h3>
+<h3 align="center">Backend Engineer • Python • FastAPI • Django • Distributed Systems • Automation</h3>
 
 <p align="center">
 Desenvolvedor backend especializado em construção de sistemas escaláveis, automação de processos críticos e arquitetura de soluções orientadas a dados.
